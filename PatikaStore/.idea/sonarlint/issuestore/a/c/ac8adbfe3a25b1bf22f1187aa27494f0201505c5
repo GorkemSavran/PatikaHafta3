@@ -1,0 +1,6 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¹¤ÿÙ
+g
+java:S1128"LRemove this unused import 'com.gorkemsavran.sreen.option.OnlyMessageOption'.(ŒŠúÊÿÿÿÿÿ
+k
+java:S1128"IRemove this unused import 'com.gorkemsavran.sreen.option.StandardOption'.(Ö‰”Œúÿÿÿÿ8ÞÈÌ÷ú/

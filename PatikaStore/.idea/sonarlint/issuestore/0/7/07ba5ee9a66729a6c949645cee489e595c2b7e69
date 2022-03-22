@@ -1,0 +1,16 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(€èÑÿıÿÿÿÿ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(½‰×É
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(±ıã
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(Ÿş–˜
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(€Òµ¬
+P
+java:S1128"3Remove this unused import 'com.gorkemsavran.Brand'.(Í„Ì™8Øß¬öú/
+X
+java:S1128";Remove this unused import 'com.gorkemsavran.product.Phone'.(Ÿî²8Øß¬öú/
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8Øß¬öú/
+A
+java:S1068"+Remove this unused "scanner" private field.(©ñ®¯
